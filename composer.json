@@ -1,0 +1,13 @@
+{
+    "name": "iqual/reusable-drupal-tests",
+    "description": "A tiny framework for writing Drupal test classes in a decoupled way from the PHPUnit/Drupal framework so that they can be reused in different contexts.",
+    "authors": [
+        {
+            "name": "Stefanos Petrakis",
+            "email": "stefanos.petrakis@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "iqual\\ReusableDrupalTests\\": "src" }
+    }
+}
